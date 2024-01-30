@@ -19,4 +19,4 @@
 - [x] C'est super !
 - [ ] C'est nul
 
-C'est modifier
+C'est modifié
